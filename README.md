@@ -35,7 +35,7 @@
 
 **Languages**
 - Python 🐍
-- JavaScript (Basics)
+- JavaScript 
 
 **Web**
 - HTML
