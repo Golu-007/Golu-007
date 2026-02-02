@@ -2,18 +2,7 @@
 
 ## Hi 👋 I'm Golu
 
-![Typing SVG](https://readme-typing-svg.demolab.com?
-font=Fira+Code
-&size=24
-&pause=800
-&color=0EA5E9
-&center=true
-&vCenter=true
-&width=650
-&lines=Learning+by+Building+Projects;
-Python+%7C+Web+Development;
-Exploring+Real-World+Problems;
-Consistent+Growth+Over+Perfection)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Learning+by+Building+Projects;Python+%7C+Web+Development;Exploring+RealWorld+problems;Consistent+Growth+Over+Perfection;Double+the+fun+Half+the+precision)
 
 </div>
 
@@ -59,17 +48,7 @@ Consistent+Growth+Over+Perfection)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?
-username=Golu-007
-&show_icons=true
-&theme=transparent
-&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?
-username=Golu-007
-&layout=compact
-&theme=transparent
-&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Golu-007&show_icons=true&theme=transparent&hide_border=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Golu-007&layout=compact&theme=transparent&hide_border=true)
 
 </div>
 
