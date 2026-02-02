@@ -1,6 +1,13 @@
-<p align="center">
-  <img src="assets/msd-banner.svg" alt="MSD Neon Banner" />
-</p>
+<!-- Top Banner -->
+<div align="center">
+  <img src="https://i.pinimg.com/originals/00/d9/85/00d98563713c6b11b855b25127ca15cf.gif" alt="Banner" width="90%" style="max-height:180px; object-fit:cover;"/>
+</div>
+
+<div align="center">
+  <p>
+     TILL THE FULL STOP DOESN'T COME, SENTENCE IS NOT COMPLETE 🏏.
+  </p>
+</div>
 
 
 
