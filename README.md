@@ -51,18 +51,18 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- GitHub cards in larger size -->
+<div align="center">
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Golu-007&show_icons=true&theme=tokyonight" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golu-007&layout=compact&theme=tokyonight" 
-    height="180"
-  />
-</p>
+ 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Golu-007&theme=dark" width="300px"/>  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Golu-007&theme=dark&utcOffset=8" width="300px"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Golu-007&theme=dark" width="300px"/>  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Golu-007&theme=dark" width="300px"/>  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Golu-007&theme=dark" width="400px" height="500px"/>
+
+</div>
 
 
 ---
