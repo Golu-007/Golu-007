@@ -44,13 +44,19 @@
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Golu-007&show_icons=true&theme=tokyonight" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Golu-007&layout=compact&theme=tokyonight" 
+    height="180"
+  />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Golu-007&show_icons=true&theme=transparent&hide_border=true)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Golu-007&layout=compact&theme=transparent&hide_border=true)
-
-</div>
 
 ---
 
