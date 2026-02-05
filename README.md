@@ -16,7 +16,7 @@
 
 ## Hi 👋 I'm Golu
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Learning+by+Building+Projects;Python+%7C+Web+Development;Exploring+RealWorld+problems;Consistent+Growth+Over+Perfection;Double+the+fun+Half+the+precision)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Learning+by+Building+Projects;Python+%7C+Web+Development+%7C+React;Exploring+RealWorld+problems;Consistent+Growth+Over+Perfection;Double+the+fun+Half+the+precision)
 
 </div>
 
