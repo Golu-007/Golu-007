@@ -67,8 +67,8 @@
 ## 🛠️ Tech Stack
 
 **Languages**
-- Python 🐍
-- JavaScript 
+
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="50" height="50"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascipt" width="50" height="50"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="react" width="50" height="50">
 
 **Web**
 - HTML
@@ -106,6 +106,13 @@
 
 
 ---
-
-⭐ *Thanks for visiting my profile!*
+<p align="center" font-family="cursive">
+<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32">
+</picture>𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓿𝓲𝓼𝓲𝓽𝓲𝓷𝓰 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮!<picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f48c/512.gif" alt="💌" width="32" height="32">
+</picture>
+</p>
 
