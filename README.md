@@ -97,6 +97,8 @@
 
 ---
 
+---
+
 <!-- GitHub cards in larger size -->
 <div align="center">
 
