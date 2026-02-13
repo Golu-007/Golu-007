@@ -73,7 +73,7 @@
 **Web**
 - HTML
 - CSS
-- React (Learning)
+- React
 
 **Tools**
 - Git & GitHub
@@ -88,6 +88,12 @@
 - Building real-world mini projects  
 - Improving problem-solving skills  
 - Writing clean and readable code  
+
+---
+
+---
+
+<img src="https://raw.githubusercontent.com/okineadev/okineadev/main/assets/animation.gif" alt="svg" /> 
 
 ---
 
