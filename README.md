@@ -90,13 +90,13 @@
 - Writing clean and readable code  
 
 ---
-
 ---
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/okineadev/okineadev/main/assets/animation.gif" alt="svg" /> 
 </div>
----
 
+---
 ---
 
 <!-- GitHub cards in larger size -->
