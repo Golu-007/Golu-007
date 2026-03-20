@@ -16,7 +16,7 @@
 
 ## Hi 👋 I'm Golu
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Learning+By+Building+Projects;Python+%7C+Web+Development;Frontend+Developer+%7C+Animation+Specialist;Design+Engineer+%7C+UI+-+UX+Architect;Exploring+RealWorld+problems;Consistent+Growth+Over+Perfection;Double+the+fun+Half+the+precision)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Learning+By+Building+Projects;Python+%7C+Web+Development;Frontend+Developer+%7C+Animation+Specialist;Design+Engineer+%7C+UI+-+UX+Architect;Exploring+RealWorld+problems;Consistent+Growth+Over+Perfection;Double+the+fun+Half+the+precision;Idol+:+Sarah+Drasner+%7C+Rauno+Freiberg;)
 
 </div>
 <p align="center">
