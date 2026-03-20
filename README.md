@@ -16,7 +16,7 @@
 
 ## Hi 👋 I'm Golu
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Learning+by+Building+Projects;Python+%7C+Web+Development+%7C+React;Exploring+RealWorld+problems;Consistent+Growth+Over+Perfection;Double+the+fun+Half+the+precision)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=800&color=0EA5E9&center=true&vCenter=true&width=650&lines=Learning+By+Building+Projects;Python+%7C+Web+Development;Frontend+Developer+%7C+Animation+Specialist;Design+Engineer+%7C+UI+-+UX+Architect;Exploring+RealWorld+problems;Consistent+Growth+Over+Perfection;Double+the+fun+Half+the+precision)
 
 </div>
 <p align="center">
@@ -68,12 +68,15 @@
 
 **Languages**
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="50" height="50"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascipt" width="50" height="50"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" alt="react" width="50" height="50">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="50" height="50"><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="javascipt" width="50" height="50">
 
 **Web**
 - HTML
 - CSS
+- Javascript
+- Vue
 - React
+- Web Animation
 
 **Tools**
 - Git & GitHub
@@ -84,6 +87,7 @@
 
 ## 📌 Current Focus
 
+- Mastering Design Engineering
 - Strengthening Python fundamentals  
 - Building real-world mini projects  
 - Improving problem-solving skills  
